@@ -1,1 +1,5 @@
-# poo
+# poo (programação orientada a objetos)
+
+De maneira geral, a programação orientada a objetos é um paradigma de programação que organiza o código ao redor de objetos. Ou seja, é uma forma de programar que simplifica programas complexos dividindo-os em unidades menores, que são os objetos, o intuito da sua criação também foi o de aproximar o manuseio das estruturas de um programa ao manuseio das coisas do mundo real, daí o nome "objeto" como uma algo genérico, que pode representar qualquer coisa tangível.Esse novo paradigma se baseia principalmente em dois conceitos chave: classes e objetos. Todos os outros conceitos, igualmente importantes, são construídos em cima desses dois.
+
+A flexibilidade é uma das principais vantagens do polimorfismo na programação orientada a objetos. Com o polimorfismo, o mesmo código pode ser utilizado em diferentes contextos, permitindo que novas funcionalidades sejam implementadas sem a necessidade de alterar o código existente. Isso é especialmente útil em sistemas complexos e escaláveis, onde a capacidade de reutilização de código é essencial. O polimorfismo também melhora a manutenção do código, tornando-o mais fácil de entender e modificar, pois permite que classes compartilhem comportamentos comuns. 
